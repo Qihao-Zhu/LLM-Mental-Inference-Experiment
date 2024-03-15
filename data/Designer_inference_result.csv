@@ -1,0 +1,331 @@
+participant_id,comment_id,do-goal,motor-goal,be-goal,FPN1_Autonomy,FPN2_Beauty,FPN3_Comfort,FPN4_Community,FPN5_Competence,FPN6_Fitness,FPN7_Impact,FPN8_Morality,FPN9_Purpose,FPN10_Recognition,FPN11_Relatedness,FPN12_Security,FPN13_Stimulation
+0,16,I aim to deeply clean my floors; I aim to get the cleaning done without much difficulty.,Scrub the floors with the swiffer wipe without putting in much physical effort,I wish to have a clean environment,1,4,5,1,1,1,1,1,1,1,1,1,1
+1,7,"I aim to charge my phone.
+ I aim to use my portable charger from time to time.","By connecting my phone to my portable charger, I should be able to charge my phone. 
+ By charging my phone when my battery is low, I aim to use my portable charger from time to time.","I aspire to be secure and have control over my life.
+ I aspire to have convenience on the things I do.",5,1,5,1,1,1,4,1,5,1,1,5,1
+2,1,I am to travel with the luggage. I am to store the luggage on the plane as a carry-on in the cabin. I am to role the luggage on its wheel. I am to store materials in the luggage. I am to lift the luggage.,I am to pick up the luggage to be able to store it in the overhead carry-on compartment on a plane. I am to store all my needed material in the luggage so I can bring it as a carry-on. I am to role the luggage on its wheels so I do not have to carry it while walking / traveling.,I aspire to travel lightly and be able to bring all my needed materials in one luggage. I aim to travel comfortably and easily so I do not need to check my luggage at the airport. I am to be comfortable so I don't have to pick up unwieldy luggage.,5,2,5,1,4,1,1,1,2,1,1,2,1
+3,18,"I aim to hold a lot of stuff
+ I aim to use my bag for a long time.","By closing the zipper, I should be able to hold my stuff.
+ By using it clean, I should be able to use it for a long time","I aspire to bring a lot of stuff to my workplace or journey. 
+ I aspire to secure my stuff.",1,1,4,1,1,1,1,1,1,1,1,5,1
+4,12,"I aim to clean my home
+ I aim to clean multiple surfaces with one product","By swiping a wipe over dirty surfaces, I will have a clean home
+ By disposing of that wipe easily, I will make my home less cluttered","I aspire to have a clean home
+ I aspire to clean in a convenient way",2,3,4,1,2,1,1,1,1,1,1,3,1
+5,2,I aim to be able to use electronic devices in other countries. I aim to be able to carry the things I need. I aim to be as unburdened as possible when in other countries. I want to be able to charge my devices efficiently.,I want to be able to plug in my devices wherever I go. I want to be able to store chargers and plugs easily so they are out of the way when not in use. I should be able to plug in my devices without hassle or difficulty. I plug my regular plugs into the travel adapter and then the regular plugs should work normally.,I want to be able to travel. I want to be interesting and capable. I want to be self-sufficient.,5,2,4,4,3,2,1,1,1,2,4,3,4
+6,4,I aim to use my computer to interface with other products (it needs to be flexible). I aim to use resource-intensive or data-intensive applications and have them run efficiently.,"By connecting devices into the computer's ports, I should quickly and easily be able to establish a connection. No extra steps or troubleshooting required.","I aspire to work on difficult computing problems that can benefit those around me, maybe through movie-making, machine learning, or other tasks that are intractable by hand.",4,2,5,1,3,1,3,1,4,1,1,1,1
+7,10,I aim to use the adapter to connect to multiple products of different brands. I aim to connect this adapter mainly to my iPhone.,"I need to make sure the adapter is compatible with my products in order to connect it to said product. By testing if the adapter fits my device, I can determine if it is able to connect or not.",I aspire to fulfill more functionality in my life. I aspire to minimize the amount of clutter in my life.,4,3,5,3,2,3,5,1,5,2,2,5,3
+8,5,I aim to use my computer effectively for daily tasks. I aim to use the apps I want to on my computer,"By plugging in my computer, I should be able to use my computer for longer. By running one app at a time, I should have no issue in the function of the computer.",I aspire to have security in my life. I aspire to have a relaxing life.,3,2,5,1,4,1,1,1,1,1,1,5,1
+9,1,I aim to have a comfortable luggage. I aim to have a luggage that is easy to lift.,"By moving the wheels, the luggage should be able to move the direction I want. By holding the luggage, I should be able to lift it easily like a hand held bag.","I aspire to have convenient device, comfortable luggage.",3,1,5,1,1,1,1,1,1,1,1,4,1
+10,3,"i aim to carry this charger portably in small bags/pockets, i also aim to be able to charge my phone for more hours than the current charger can offer.","by using the charger, I should be able to use my phone for a longer duration, take it out of my pockets easily with single hand, and put more things in my handbags.","I aspire to be minimalistic, be flexible and efficient of my space and time. I also aspire to save time from doing mundane tasks.",3,2,5,1,4,1,1,1,1,1,1,4,1
+11,6,I buy both sponge and steel wool. I replace sponge often but not steel wool.,"I go to the market to find a better sponge so that I don't have to keep the steel wool. The day I find, it will be the last day for steel wool or else, steel wool continues to stay.","I like to keep my dishes clean. I don't want to soak them for long as I am keen to keep my kitchen sink clean always and not stuffed with utensils. Fresh, hygienic, and cleaner utensils are my goal.",1,3,5,2,3,4,1,1,2,3,1,4,3
+12,3,"- I aim to charge my phone consistently without losing power
+ - I aim to store it in a convenient way so I always have access to it","- By plugging my phone into the charger, I should be able to restore my phone's energy
+ - By placing the charger into my bag or pocket, I should be able to have access to it any time at my convenience
+ - By charging the charging block itself, I should be able to use it charge my phone in turn many times before I have to recharge the block
+ - I have to remember to remove the charging block from my bag or pocket to charge it at home when it is empty; otherwise, I might be in a situation where I don't have a charge because the block is out of energy","- I aspire to be autonomous so I don't have to rely on others to charge my phone
+ - I aspire to have freedom to use my phone anywhere without having to be tethered to a specific location to go back and charge it
+ - I aspire to connect with others at any time because I can always charge my phone
+ - I aspire to always feel safe because my phone will not be out of battery
+ - I aspire to have comfort and convenience in the sense that my charger does not take up too much space or is too heavy
+ - I aspire to have access to my phone at all times so I can do the things I need to do",5,2,4,3,1,1,1,1,1,1,3,5,4
+13,2,I aim to charge my American electronics in Europe. I aim to pack light for ease of travel.,"By plugging in the adapter into the wall and my charger into the adapter, I should be able to charge my devices in Europe.",I aspire to stay connected to others while traveling. I aspire to feel safe while away from home. I aspire to be self sufficient while abroad.,5,1,4,4,5,1,1,1,1,1,1,5,1
+14,1,I aim to store my items safely while traveling. I aim to transport my items comfortably while traveling.,"I need to pack my items in the luggage. I need to either roll my luggage or lift and carry my luggage to transport it places (from home into the car, from car into plane, etc)","I aspire to have a level of comfort when going somewhere (have my clothes, have my cosmetic items, etc). I aspire to have ease-of-mind in that my items are together and they are safe from the elements.",4,3,5,1,1,1,1,1,1,1,1,5,1
+15,4,"Running some programs that require some computational power. 
+ Try to connect his machine to several other external hard drives and monitors","Buy a new adapter, plug the adapter to the Mac Mini, plug the other end of the adapter to the monitor/external hard drives. 
+ 
+
+ Writing a program, check if the Mac Mini able to run it by doing some benchmarking.",I aspire to have control over what I am doing. I aspire to have enough capability (self/machine) on the tasks I'm working on.,5,1,3,2,5,1,5,5,5,3,4,4,2
+16,3,"I wish to charge my phone
+ I aim to charge my phone to full capacity","By plugging in my phone, I should have my phone start charging
+ By pluggin in my phone, my phone should charge all the way when the portable charger dies",I aspire to have a safety net in the form of my phone; I aim to retain connection to others,5,1,4,4,1,1,2,1,1,1,3,4,5
+17,1,I aim to fit all my items in my luggage for travel. I also aim to easily move my luggage around.,"When packing my luggage, I should be able to fit all my items in the bag. Additionally, I should also be able to easily move it around and lift it during transit.",I aspire to travel with everything that I want to travel with. I also aspire to comfortably travel with little worry about how my items are doing.,1,2,5,1,3,1,1,1,1,1,1,4,1
+18,4,I aim to set up my computer and use it in the immediate future; I expect good performance from my computer; I expect to be able to connect multiple external devices to my computer for my use;,I should be able to unbox everything easily; I need clear instructions for the setup process; My applications should be executed fast; I should be able to directly connect multiple devices to the computer without the need for an adapter.,I aspire to have a functional working set-up in the immediate future; I am looking for efficiency; I want a clutter-free environment.,4,4,5,1,5,1,4,1,3,1,1,1,2
+19,3,"- I aim to charge my cell phone when I am on the go
+ - I aim to fit my charger into my pocket when I am on the go 
+ - I aim to be able to keep my phone charged all day","- By connecting a cord from my portable charger's USB port and plugging it into my cell phone's charging port, I should be able to charge my phone battery
+ - By putting my portable charger into my purse, and connecting it to my cell phone which I also keep in my purse, I should be able to charge my phone battery even when I am commuting without access to wall charging outlets.","- I aspire to be able to communicate with others all the time
+ - I aspire to have access to entertainment at all times so that I don't get bored",5,1,4,5,3,2,1,1,1,1,5,4,5
+0,6,I aim to thoroughly clean my dishes; I am to get the dishes clean while keeping the rest of my space and things clean with minimal time and effort,"Wet the sponge, scrub the dishes with the rough side of the sponge, use another tool to scrub the dishes if the sponge does not get everything off, squeeze out the sponge, let the sponge dry",I aspire to have a clean and hygienic environment; I aspire to get tasks done to my standards quickly,2,3,3,1,1,5,1,1,1,1,1,2,1
+1,8,"I am to use a mouse to play online games.
+ I am to have a aesthetically pleasing mouse.","By pressing the right buttons, I should be able to control my mouse well.
+ By plugging in my mouse, I can activate the colourful and aesthetically pleasing mouse.","I aspire to have more convenience in my life. 
+ I aspire to be competent in gaming.",1,5,5,1,5,1,1,1,5,1,1,1,1
+2,2,I aim to adapt my American charger to European wall outlets. I aim to carry this adapter with me when I travel. I aim to have this adaptor accessible when I need it in Europe.,"To have this adaptor accessible when needed, I need to carry it with me at all times I will potentially need it during my travel. To adapt my American charger, I need to bring this adaptor with me when I travel (likely in my carry-on luggage so it's easily accessible). To use this adaptor, I need to attach it to my existing American charger.",I aspire to be prepared to charge my devices in any situation. I aspire to feel secure and not worry about my devices running out of battery when I travel. I aspire to travel lightly and be able to carry everything I need on me. I aspire to travel easily.,5,3,5,1,2,1,1,1,2,1,1,5,1
+3,14,"I aim to use a minimal amount of tools as possible for cleaning.
+ I aim to get rid of the dust.","By wiping with the wipe, I should be able to clean the place.
+ By only grabbing one wipe, I should be able to use a minimal amount of tools.","I aspire to keep my place clean.
+ I aspire to think a bout the environment.",1,5,1,1,1,5,4,1,1,1,1,1,1
+4,13,"I aim to have a clean home
+ I aim to use one product to clean throughout my home","By maneuvering a vacuum over my floors to lift dirt, I will be able to clean my home
+ By removing dirt from my floors, I will be satisfied with the state of my home","I aspire to live in a space free of dirt
+ I aspire to clean in a convenient way, without having to switch tools",3,4,4,1,2,1,1,1,1,1,1,3,1
+5,6,I aim to clean dishes. I aim to have a clean kitchen. I aim to handle a variety of food mess.,I should be able to scrub off anything stuck on the dishes. I should be able to use the sponge for a reasonable amount of time without it getting worse. I should be able to leave the sponge by the sink between uses.,I want to have a nice place to live. I want to spend as little time as needed doing chores.,4,5,4,3,1,1,1,2,1,2,1,1,1
+6,6,"I aim to keep very clean dishes, reaching even tough stains. I aim to waste no time using extraneous cleaning products, and hope that I can stick with one solution for the long term.","By scrubbing dishes, I should be able to remove dirt. I should be able to use the product repeatedly without re-cleaning it each time.","I aspire to be as clean and tidy as possible, and to be efficient with my use of time.",3,5,5,1,2,1,1,1,1,1,1,1,1
+7,11,I aim to optimize my mop. I aim to create a convenient and efficient mopping experience.,"By using a mop with replaceable pads, I can make sure the mop is clean at the start of every cycle. By using a new pad, it guarantees max absorption.",I aspire to optimize the amount of time it takes to do menial tasks such as mopping. I aspire to feel secure from having a clean space because of my mop.,2,4,5,1,4,4,3,1,4,3,1,5,4
+8,7,I am to use a portable charger. I am to have a charged charger at all time. I aim to put the charger in my bag,"If I don't use the charger, no power should leak out of it. By plugging in my portable charger, I can refill the battery to keep using it.",I aspire to live a life of comfort. I aspire to have control over my enviornment.,3,1,5,1,3,1,1,1,1,1,1,4,1
+9,2,I aim to adapt my electronics from american to european wall outlets.,"By using the travel adapter, I should be able to charge my american electronic device in european wall outlets.",I aspire to have a easy and simple life.,4,1,5,1,1,1,1,1,1,1,1,3,1
+10,9,I aim to get rid of a leak in a sugary liquid that dried on the floor.,"By using the swiffer, I should be able to clean/remove the dried sugary liquid on my floor.","I aspire to be clean and self organized, I aspire to feel secure and have a comfortable living place.",2,5,4,1,1,5,1,1,1,1,1,2,2
+11,7,"Use the portable charger often since I have a Samsung Galaxy Flip3, which drains its charging often.",I will carry it with me all the time when I go out. Generally I will carry in my jeans pocket.,"Safety, as mobile phone keeps me connected in need of emergency. Also, socializing, connection and avoid carrying charger and looking for charging points.",2,3,5,4,3,1,5,1,4,4,2,5,2
+12,5,"- I am to perform computing tasks such as word processing, Internet use, answering emails, and so on on the go
+ - I aim to be able to do those things for an extended period of time without interruption
+ - I aim to multitask and do all sorts of different things at the same time
+ - I aim to be able to do all of the above with as little effort as possible","- By plugging the laptop in, I should be able to charge it
+ - By using the touchpad, keyboard, and screen, I should be able to do all the computing tasks necessary (not providing an exhaustive list, but anything a computer would allow you to do)
+ - I should be able to do all the things I need to do without having to interrupt myself, e.g., because I ran out of battery or because there is not enough RAM","- The things I can do with a laptop are virtually limitless, so I can achieve a wide range of goals using my laptop:
+ > I aspire to be connected to others (through social media, email)
+ > I aspire to be successful (by doing my work)
+ > I aspire to be entertained and stimulated (by playing games, watching movies, using the Internet)
+ > I aspire to be well-informed (by reading and using the Internet as well)
+ > And so on...
+ I cannot do any of this wide range of things unless my laptop is fast and has a long-lasting battery. Otherwise, I may be inconvenienced in the middle of doing these things.",4,2,4,4,3,2,4,2,4,4,4,5,5
+13,12,I aim to keep my household spaces clean. I aim to minimize my effort in cleaning.,"By pulling out a wipe and wiping down surfaces, I should be able to keep all of my household surfaces clean.",I aspire to live in a clean and comfortable environment. I aspire to feel a sense of control over my own living space.,4,5,5,1,4,4,1,1,1,1,1,4,1
+14,24,I aim to track my health. I aim to look good wearing this watch.,"I will press buttons and bring up my health history. I will wear the watch, maybe change the bracelet, to look good.",I aspire to be healthier. I aspire to look better for my own confidence or to attract a certain person.,3,5,4,3,1,5,1,1,1,1,1,1,1
+15,8,"I am to use the mouse to play games that require a lot of keymapping. 
+ I am to use my mouse to help facilitate my office usage, such as macro some tasks or quicking click something that usually hard to navigate to.","I have to install the SteerMouse so I can bind the keys. Then, select each key and decide which functions I want to map the key to. Finally, I have to open the game I intended to play and test if that really works.
+ 
+
+ Check if there is any function in particular that I want to use the additional keys for. 
+ Then, I have to install the SteerMouse and map the keys. Finally, test if those keys really work, otherwise, go back and adjust.","I want to be more productive on the task I am working on (clicking faster, work faster) which would bring me to the next step of my career (or rank) 
+ 
+
+ I want to progress on the task I'm working on so I can be more secure about my money, income, family, etc.",5,1,4,3,5,2,5,2,5,4,5,5,2
+16,24,"I aim to track my sleep every night
+ I aim to be able to use this watch everyday to keep track of my stats","By pressing on the screen, I should be able to navigate the smartwatch
+ By sleeping with the watch on, I should be able to get data about my sleep","I aspire to track my sleep schedule and use that to improve my sleep health
+ I aspire to be in charge of aspects of my health",2,1,1,1,2,5,4,1,4,1,1,1,4
+17,14,I am to clean with a wipe. I also aim to use a new product out for cleaning purposes.,"By holding a wipe, I should be able to clean a mess by rubbing it against the mess. By trying a new product, I should be able to compare it to other products I have used in the past.",I aspire to have a clean environment. I also aspire to try a novel solution to an old problem.,1,5,3,1,4,5,1,1,1,1,1,3,1
+18,17,I aim to be able to charge my phone when I don't have a phone charger on me; I am looking for a portable device;,I need a power bank that's small and can fit in my coat pocket when I'm outside; I need to be able to use the battery with a compatible cable that I possess; I want my phone to be charged at a reasonable speed.,I aspire for a sense of security concerning my phone; I want comfort; I want efficiency;,4,4,5,1,5,1,3,1,3,1,1,5,1
+19,24,"- I aim to track and manage my sleep schedule
+ - I aim to be comfortable wearing my accessories throughout the day","- By strapping the smart watch to my wrist and going to bed, then looking at the watch in the morning, the watch should be able to report stats about my sleep habits.
+ - By strapping the watch to my wrist and going about my day like normal, the watch should not distract me due to being physically uncomfortable.","- I aspire to have healthy sleeping habits
+ - I aspire to be physically healthy
+ - I aspire to have control over my life and body",2,2,5,1,2,5,1,1,1,1,1,3,4
+0,23,I aim to store a large amount of data; I aim to have a phone that is durable; I aim to have a phone that is functional but not necessarily anything more,Purchase a phone with ample data storage capacity; use the phone without being particularly careful,I aspire to be able to have as much data as I want comfortably without worrying about space; I aspire to do daily activities without being cautious,5,1,4,1,2,1,2,1,1,1,2,3,2
+1,12,"I aim to clean my house.
+ I aim to not have dirty items in my house.","By wiping my house down, I should be able to clean my house.
+ By throwing away the cleaning equipments, I will not have dirty items in my house.","I aspire to be in a clean and comfortable enviroment.
+ I aspire to continue being a clean and neat person.",1,1,5,1,1,1,5,1,5,3,1,5,1
+2,9,"I aim to clean up basic dirt and ""whatnot."" I aim to clean up ingrained floor strains. I aim to clean up dried liquids. I aim to clean up anything on the floor (dirt, stains, dried liquids) with 1 item (i.e. this Swiffer wet mop). I aim to need only 1 item (i.e. this Swiffer wet mop) to clean my floor.","By using the swiffer wet mop, I should be able to clean up dirt, ""whatnots,"" ingrained floor stains, and dried liquids. By dragging the mop over anything I want to clean up, I want to easily be able to clean up that thing. By using the Swiffer wet mop, I want to eliminate my need for other cleaning objects (i.e. I won't need something ""tougher"" than this mop to clean my floors).",I aspire to clean easily. I aspire to clean efficiently. I aspire to have a clean floor. I aspire for my space to be clean. I aspire to not have to buy / store many cleaning items in my home.,5,5,5,1,4,1,1,1,1,1,1,3,1
+3,4,"I aim to set it up fast and simple.
+ I aim to connect a lot of cable.","By following the simple setting up procedure, I should be able to set the computer fast.
+ By purchasing an external connecter, I should be able to connect a lot of cable.","I aspire to use the computer a lot for tasks.
+ I hope to not have any trouble in the setting up process.",3,1,4,1,1,1,1,1,1,1,1,1,1
+4,14,"I aim to have a clean home
+ I aim to clean efficiently, using fewer products","By swiping a wipe across surfaces, I will make my home cleaner
+ By using a quality wipe, I will be able to use fewer wipes and clean faster","I aspire to live in a clean space
+ I aspire to impress others with my cleaning implements",2,3,4,1,3,1,1,1,1,1,2,2,1
+5,8,I want to play video games with long nails. I want to work efficiently. I want to use my computer easily.,I want to be able to press buttons quickly. I want to be able to use computer shortcuts that I design. I want to enjoy using my computer.,I want to connect to my community. I want to feel competent and effective.,3,4,4,5,5,1,1,1,1,1,4,1,3
+6,8,I aim to play games expertly on my computer. I aim to use productivity applications on my computer efficiently. I aim to have stylish accessories for use with my computer setup.,"By pressing the right button combinations on my mouse, I should be able to execute complex actions that a simple three-button mouse could not. By using software customizations, I should be able to transform the look and feel of my product.",I aspire to be a proficient gamer and have a likeminded social circle that respects and praises me.,4,5,5,3,5,1,1,1,2,4,3,1,4
+7,12,I aim to have a clean space. I aim to use cleaning wipes often when I see a mess in my space. I aim to keep cleaning wipes on me in case I need to clean something.,"By having the cleaning wipes around, I can use them to clean almost anything. By having a trash can around, I can conveniently dispose of the cleaning wipe.",I aspire to be a hygienic person. I aspire to feel comforted and in control of my space.,2,4,4,3,3,1,5,4,2,3,1,5,4
+8,9,I aim to clean up my floor. I aim to use my mop for more than just simple cleaning.,"By using the mop to wipe down the floors, I can clean up. By putting more force unto the mop, I can get off more of the stains.",I aspire to have a clean space that makes me feel comfortable. I aspire to be able to be self-sufficient.,5,5,2,1,2,1,1,1,1,1,1,1,1
+9,7,I aim to charge my electronic device. I aim to charge my electronic device outside.,"By connecting my phone or electronic devices to the charger, my phone can be charged.",I aspire to have a convenient life.,5,1,5,1,1,1,1,1,1,1,1,3,1
+10,11,"I aim to purchase a mop with replaceable pads that are affordable, can use for a long time, and effective.","By purchasing the mop, I should be able to change the pad easily, and clean the floor quickly.","I aspire to maintain a clean living space, I aspire to be frugal and respectful of my money and time.",5,1,4,1,1,2,1,1,1,1,1,5,4
+11,10,I have variety of devices and I want to make sure I am able to get the right travel adapter. I will use it in multiple occasion and do not have to carry multiple adapters with me while travelling.,"I will keep it in my bag such that it doesn't occupy much space. I will make sure it is working. I will use it in trains, buses, flights, hotels and international travels. I will make sure it doesn't look bulky.","I want to carry only ONE adaptor. No extra baggage and gaze my safety, security and comfort while using my Tech-gadgets and stay connected. I will want to work from anywhere.",1,3,5,4,3,2,4,2,5,4,2,5,3
+12,7,"- I aim to charge my devices (phone, laptop, etc.) at any time in any place when it is out of battery
+ - I aim to store that ability to charge in a way that does not take up a lot of space
+ - I aim to be able to charge my devices at any time for a long time before I need to recharge the charger","- By plugging my devices in to the charger, I should be able to recharge their batteries
+ - By placing the charger in my backpack, I should be able to store it and access it conveniently again in the future
+ - By removing the charger from my backpack and plugging it into a socket, I should be able to refill the capacity of the charger so I can use it again for a long period of time","- I aspire to be secure and not be caught in a position where my devices are out of battery and cannot be used
+ - I aspire to achieve whatever my devices motivate me to achieve:
+ > Being connected by using my phone
+ > Having an impact and being competent by doing my work on my laptop
+ > Being stimulated using those electronics at any given time
+ - I aspire to be autonomous and not have to rely on someone else or be tethered to a specific location to be able to use my electronics",5,1,5,2,1,1,2,1,3,1,4,5,4
+13,13,I aim to keep my hardwood floors and rugs clean. I aim to minimize my effort in keeping my space clean.,"By pressing the right buttons, I should be able to operate the vacuum and clean the right type of floor surface.",I aspire to keep my space clean. I aspire to live in a place that is nice and well maintained.,4,5,5,1,4,4,1,1,1,1,1,4,1
+14,17,I aim to charge items on the go. I aim to comfortably carry a battery.,"I will charge my battery beforehand. I will bring my battery and the necessary cable to charge my device. I will plug my battery into my item needing charge,",Stay connected to the world by charging phone. Feel a sense of security that even when you are away from a wall plug you can still charge your items.,5,2,4,4,2,1,1,1,1,1,1,4,2
+15,17,"I want to carry this item around with me so i can use it anytime i want to. 
+ I want to use it to charge my phone.","I have to try putting the batter into my pocket to see if it really fir and compact enough for my daily usage. 
+ I have to plug the cord to my phone and see if it really charges my phone.","I want to have the phone available all the time so I can have control of what I'm doing, the plans, or people around me. I want to be connected to the others. I want to be able to use my phone freely anytime I want to.",5,1,5,5,3,1,3,1,3,3,1,5,3
+16,16,"I aim to clean my floors
+ I aim to reduce the difficulty of scrubbing my floors","By using the swiffer wet wipes, my floor should be clean
+ Using the swiffer wet wipes I should be able to reduce the scrubbing of my floor","I aspire to have a clean home
+ I aspire to have an easier time maintaining a clean home",4,4,4,1,1,1,1,1,5,2,1,1,3
+17,4,I aim to work on a Mac Mini. I aim to connect devices to it without external hardware purchases.,"By clicking the right buttons, I should be able to go from set-up to working on my computationally fast Mac Mini with ease. By using my Mac Mini's ports, I should be able to connect external devices to it without buying other hardware.",I aspire to focus on my daily work without having to worry about hardware set-up or a slow working set-up. I also aspire to have convenient connectivity with the environment/machines.,3,1,5,1,5,1,1,1,1,1,1,1,1
+18,18,I aim to take a carryon suitcase when I travel; I want to be able to fit and organize my things inside the bag; I want to spend a reasonable amount of money on it.,I should be able to fit a large volume of items inside the suitcase; I need multiple pockets and compartments within the suitcase to help me organize my things; I need a compartment for my laptop that provides security.,I aspire to feel secure about my belongings; I want a sense of organization concerning my belongings;,4,4,4,1,4,1,4,1,3,1,1,5,1
+19,5,"- I aim to get my work done on my laptop
+ - I aim to have many apps open on my computer if required
+ - I aim to have a long lasting laptop battery for my work","- By turning on the laptop without it being plugged in, and opening the apps I need for work, I should be able to complete my tasks without the laptop battery running out
+ - By opening many applications on my laptop, I can engage in my work without the RAM getting fully used up","- I aspire to be a productive member of society
+ - I aspire to be stimulated and entertained",4,1,5,1,4,1,1,1,1,1,1,4,5
+0,10,I aim to charge my iPhone and other devices while traveling; I aim to only travel with one adapter,Insert iPhone and other wires into adapter,I aspire to feel secure and prepared,1,1,5,2,2,1,1,1,1,1,1,4,1
+1,16,"I aim to clean my floors.
+ I aim to clean other parts of my house as well.","By wiping, I should be able to clean my floor.
+ By scrubbing, I should be able to clean parts of my house.","I aim to be in a clean and comfortable environment.
+ I aim to be recognised as a neat and clean person.",1,4,4,1,1,1,4,1,4,5,1,4,1
+2,11,I aim to replace the mop pads every time I clean. I aim to be able to easily clean. I aim to be able to easily change the mop pads. I aim to absorb liquids with the mop pad. I aim to clean my floors for a low cost. I am to buy a Swiffer mop that will last a long time (I will only need to replace the mop pads). I aim to buy a mop that is effective at cleaning so I won't need other items to clean my floor.,"By attaching the mop pad, I will be able to clean my floor easily. By attaching the mop pad, I will be able to clean liquids from my floor. By removing the mop pad, I will be able to easily discard the dirt/waste. By removing the mop pad, my mop will be clean to store until its next use. By buying the mop pads, I won't need to clean the mop. By buying the mop pads separately, my mop will have a long lifetime. By using mop pads (instead of traditional rope mops), it will be easy to clean my mop once I am done cleaning the floor. By using mop pads (instead of traditional rope mops), my mop is more sanitary. By using mop pads, I do not need to be separate liquid cleaners. By using mop pads fitted to my Swiffer mop, I will have an easy cleaning experience.",I aspire to have clean floors. I aspire to save money. I aspire to reuse items. I aspire to be sanitary. I aspire to easily store cleaning items in my home. I aspire to make informed purchasing decisions.,5,3,5,1,5,1,1,1,1,1,1,4,1
+3,3,"I aim to use it daily.
+ I aim to use charge an electronic device.","By putting it in my pocket, I should be able to carry it all around every day.
+ By turning on the on/off button on the right, I should be able to charge.","I aspire to feel safe and ready.
+ I aspire to feel not left alone with no battery.",1,1,3,1,1,1,1,1,1,1,1,4,1
+4,15,"I aim to listen to music/calls from my phone
+ I aim to be comfortable
+ I hope to not have significant maintenance involved to keep this device working","By placing earbuds in my ears and connecting them to my phone, I will be able to hear the audio output of my phone
+ By charging my earbuds regularly, I will be able to use them for several hours between charges","I aspire to minimize disturbance to those around me
+ I aspire to have devices that fit me well despite what I perceive to be an abnormal body",2,2,4,1,1,1,1,1,1,1,1,1,2
+5,10,I aim to plug in multiple different kinds of devices. I aim to need the fewest number of items when traveling.,I should be able to use my regular plugs with the travel adaptor to have a typical charging experience. I should be able to charge my phone and other electronics.,I want to be unburdened. I want to be able to travel. I want to have my iPhone work no matter what.,5,3,4,2,3,1,1,1,1,1,2,3,1
+6,11,I want a tool to keep my belongings and spaces clean. I aim to keep the tool for a long time (it's reusable) and don't want to have to worry about how good a job it does of cleaning.,"By putting the tool on the ground and moving it back and forth, I should be able to pick up dirt. By simply leaving the tool behind after I'm done, I should be able to pick it up again and continue cleaning. If it doesn't work well, I can follow a simple process to restore its effectiveness.",I aspire to be clean and modern. I aspire to be in control of my spaces around me.,2,5,5,1,4,1,1,1,2,2,1,3,1
+7,19,I aim to use headphones that function as they should. I aim to keep the current headphones that I have as they seem to do their job connecting to my devices. I aim to use my headphones for music.,"By turning on my device and connecting the headphones via Bluetooth, I can listen to sounds from my device. By engaging with the volume control, I can adjust my volume to fit the right conditions for my current environment.",I aspire to feel comforted. i aspire to feel empowered.,5,4,5,2,3,1,4,1,3,1,2,4,5
+8,18,I aim to use my luggage for a long time. I am to put many objects in my luggage.,"By using the space effectively, I can bit everything in the suitcase. By taking good care of my luggage, it will last for a long time.",I aspire to have control overly life. I aspire to have simplicity.,4,4,2,1,3,1,1,1,1,1,1,2,1
+9,17,I need to charge my phone. The device should be easy to carry. It should charge the phone quickly.,"By connecting the device to my phone, I should be able to have my phone full of battery. It should be light and fit in a small place. The charging process should be fast.",I want to have a easy and comfortable life.,4,1,5,1,1,1,1,1,1,1,1,2,1
+10,16,I aim to clean the floors and also get rid of scrubbing efficiently/effectively with the swiffer wipes.,"By putting the swiffer wipes on swiffer, and swip on the floor, I should be able to clean the scrub on the floor easily.",I aspire to maintain a clean space and be effective in that as well.,1,1,3,1,1,4,1,3,5,1,1,2,1
+11,12,"I will use cleaning wipes everywhere especially in the kitchen as I want my kitchen to be clean. I will use them to help support in dusting my house, once in a while.","I will pull it from the box. Apply to the effected area, rub it, and throw it.","Cleaner lifestyle, hygienic, and comfortable. I do not want to use much as I want to be sustainable. I want to make sure I don't have to store a hell lot of them.",1,5,5,5,2,3,5,3,3,5,1,5,1
+12,14,"- I aim to clean myself or objects I control at any time and in any place
+ - I aim for the standard of cleanliness to be sufficiently high","- By removing the wipes from their container, I should be able to grab them
+ - By rubbing the wipes on a solid object, I should be able to remove dirt or anything I perceive as ""unclean"" from them
+ - By removing the dirt or filth, I should be able to make the object clean and sanitary again
+ - By throwing the wipe in the garbage or washing it, I should be able to either get rid of the wipe and the dirt it removed entirely or reuse it for another time
+ - If the wipe is reusable, I should be able to use it many times without it losing its ability to clean well","- I aspire to be clean
+ - I aspire to be aesthetic
+ - I aspire to be safe and free from potential disease or harm that comes from dirt and filth
+ - I aspire to be able to clean on my own without help
+ - I aspire to be in control of my space
+ - I aspire to be able to control my space efficiently and conveniently
+ - I aspire to be able to remove things that are unpleasant from my view and my life
+ - I aspire to have comfort because things are clean
+ - I aspire to be seen as a clean person who looks after themselves
+ - I aspire to keep spaces clean and safe for others I care about
+ - I aspire to be good because cleanliness is good",4,5,5,3,3,4,4,5,3,2,2,5,1
+13,20,I aim to play video games. I aim to experience games in surround sound. I aim to not disrupt my wife while playing games. I aim to easily control settings on my tv.,"By plugging in my headphones, I should be able to experience games in the same way without disrupting others. By using my gaming console, I should be able to control other features on my TV.",I aspire to be entertained. I aspire to maintain a sense of peace in my living environment. I aspire to enjoy a harmonious life with my partner.,3,4,4,3,1,1,1,1,1,1,3,4,5
+14,22,I will clean my room. I will store my cleaning item.,I will take my cleaning item from the stored place. I will clean what needs cleaning. I will empty the device. I will store the device.,"I want a cleaner room, without using too much space which would otherwise affect my comfort. I want a cleaner space for enhanced comfort and security.",4,4,5,3,2,1,1,1,1,3,1,3,1
+15,9,"I want to use it to clean some dried-out strained on the floor. 
+ I want to use it to clean some basic dirt on the floor.","I have to take to mob out, wet to, sweep it on the floor. 
+ I have to wet the dried-out area, take the mob out, wet the mob, and use the mob the clean the floor","I want to live in a clean place. I want other people to see that I live in a clean, well-maintained house.",4,5,4,4,3,3,3,3,3,5,2,2,2
+16,15,"I aim to listen to some sort of audio on my devices
+ I aim to use this device for a long time so need a long battery life","By using the headphones, I should have audio to listen to for a long time
+ By turning on the headphones, it should connect to my phone and work
+ By plugging in the headphones to charge, they should charge for a long time and hold that charge for hours
+ By placing the headphones in my ears, they should fit and not fall out","I aspire to have a private audio connection 
+ I aim to be comfortable and listen in privacy",5,1,5,3,1,1,1,1,3,1,3,2,5
+17,18,I aim to travel with my items in a piece of luggage. I also aim to have it last for a long time.,"By putting my items in the suitcase, I should be able to carry my items from point A to point B with good organization and volume, at a reasonable price. By treating it well, I should be able to ensure that it lasts a long time.",I aspire to have order with my personal items as I travel. I also aspire to have a long-standing sense of security with my luggage.,1,5,5,1,1,1,2,1,1,1,1,5,1
+18,23,I aim to use a smartphone everyday; I would like to be able to store lots of items on my phone; I would like to not have to worry about dropping my phone.,"By paying a reasonable price for the new smartphone, I should be able to spend my money appropriately. I need the phone to have a lot more storage space than my previous phone as it would let me use my phone conveniently. By owning a durable phone, I should be able to use it without worrying too much about accidentally damaging it.",I aspire to feel comfortable looking back at my expense; I aspire for a sense of security concerning my phone's well-being; I would like a sense of freedom while using my phone.,5,2,5,4,4,1,4,1,4,2,3,5,2
+19,15,"- I aim to listen to music or other audio
+ - I aim to be able to move and be comfortable while wearing earbuds","- By cueing up music on my phone and taking the wireless earbuds out of their charging case and putting them in my ears, I should be able to seamlessly start listening to the music from my phone.
+ - By placing the wireless earbuds in my ears and listening to music for several hours, the earbuds should not lose charge or cause ear pain.","- I aspire to be comfortable 
+ - I aspire to engage with art (listening to music)
+ - I aspire to be physically free from cumbersome restraints",3,5,5,1,2,4,1,1,1,1,2,3,5
+0,11,I aim to clean my floors; I aim to maintain a clean mop,"Put a replaceable pad on the mop, push the mop around the floors, discard the pad, purchase additional replacements as needed",I aspire to feel competent; I aspire to maintain a clean space,2,4,4,1,5,3,3,1,1,1,1,2,1
+1,21,"I aim to have travelling essentials with me when I travel.
+ I aim to secure my travelling essentials when I travel.","By packing my travelling essentials in my luggage, I should be able to have my luggage with me when I travel.
+ By locking my luggage, I should be able to secure my travelling essentials when I travel.","I aspire to have new experiences.
+ I aspire to feel secure.",1,1,4,1,1,1,1,1,1,1,1,5,5
+2,19,I aim to easily connect my Bluetooth headphones to multiple devices (computer and phone). I aim to easily switch between listening on my computer to on my phone (and vice versa). I aim to have good sound quality. I aim to have loud sound quality. I aim to hear audio from my headphones in ambient sound environment. I aim to hear audio from my headphones in a loud sound environment. I aim to have my headphones accessible when I want to listen to something on my computer or phone. I aim to block out background noise with my headphones.,"By connecting to my computer, I will be able to have an adequate listening experience. By connecting to my phone, I will be able to have an adequate listening experience. By turning up the sound volume, I will be able to hear the audio (even when their is background noise). By connecting to my computer or phone, I will be able to hear the audio through my Bluetooth headphones (regardless of the volume of the background noise).","I aspire to have adequate (or even enjoyable) listening experiences on my phone or computer. I aspire to be able to control the sound I listen to (or don't listen to, by using the headphone to block out background noise). I aim to easy and convenient listen experiences.",5,2,5,1,5,1,1,1,1,1,2,2,5
+3,9,"I aim to clean the stairs.
+ I aim to clean the mess daily.","By moving the mop on the stair without large effort, I should be able to clean the stair.
+ By dragging the mop on the floor, I should be able to clean the mess.","I aspire to make my home clean.
+ I aspire to feel organized, without any mess.",1,3,1,1,4,5,1,1,1,1,1,1,1
+4,18,"I aim to safely contain my belongings when traveling
+ I aim to stay organized when traveling","By carefully packing my things into compartments, I will know where everything is
+ By considering my past experiences, I will know what to look for when buying a product","I aspire to save money
+ I aspire to keep my belongings safe
+ I intend to buy a product that lasts a long time
+ I aspire to stay organized",2,3,5,2,2,1,1,1,1,1,1,2,1
+5,15,I want to listen to audio content without disturbing others. I aim to not need to charge my earbuds regularly. I aim to listen to audio content in different locations and situations.,The earbuds don't fall out of my ears. The earbuds are easy to use. I can play audio through the earbuds without it taking much time.,"I am able to consume the audio content I want to, when I want to. I define my own space.",4,4,4,3,2,3,1,1,1,1,2,1,5
+6,13,"I aim to keep my house clean. I aim to keep other, removable items in my house clean as well too.","By plugging in the vacuum (if without a battery), turning it on, and moving it across hardwood floors or rugs, I should be able to remove dirt.",I aspire to exert less effort and have more time for things I enjoy in life. I aspire to feel polished and have an active outdoors day-to-day that does not negatively affect my lifestyle at home.,3,5,5,1,2,2,1,1,1,1,1,1,3
+7,20,I aim to use my PlayStation 5 as an all-in-one to play games and watch TV. I aim to use my PlayStation 5 with people as well as by myself.,"By connecting my headphones to the PlayStation 5, I can listen to sounds playing from it without disturbing others around me. By switching the mode on my PlayStation 5, I can perform other functions like play games, listen to music, and watch movies.",I aspire to be able to maximize the ability of my devices. I aspire to feel comforted by technology.,4,3,5,4,3,2,5,5,4,2,5,5,5
+8,23,I aim to find a smartphone with a large storage. I aim to find a phone that can withstand some damage.,"By finding a phone with a large storage amount, I should not run out in the future. By buying a more durable phone, I should not crack my phone as easily.",I want reliability in the objects I own. I don't want to worry about micromanaging my actions.,2,1,5,1,2,1,1,1,1,1,1,5,2
+9,24,I aim to have a device to track my sleep. I need a beautiful and comfortable device.,"By wearing the device and go to sleep, the device should record my sleep schedule. By wearing the device, I should not feel uncomfortable.",I aspire to be a healthy person . I want to have a high quality life.,4,5,5,1,1,2,1,1,1,1,1,1,1
+10,17,"I aim to conveniently carry this portable battery around, and charge the phone quickly.","By plugging the battery in my phone, I should be able to stock up my full phone charge faster than a wall outlet.","I aspire to be flexible of my space and time, I aspire to be efficient with my purchases.",4,2,3,1,4,2,4,1,5,1,3,3,3
+11,16,"I will use it in my mop. In my place, I use moping only in my kitchen and restroom as other places are carpeted. I will make sure there are no stains, hair, and other things. Sometimes my makeup, or food gets on the floor. It becomes hard to clean that sticky substance.",Press it hard to make sure it takes away. I will use a wet wipe by hand to make sure it is clean. Sometimes I will keep my the stain wet s that when in. while i use the mop it gets cleaned.,"Cleanness, hygiene, and fresh.",1,4,4,4,3,2,3,1,4,4,2,3,2
+12,19,"- I aim to listen to music with high quality
+ - I aim to make phone class and listen to others without holding my phone up to my head
+ - I aim to be able to connect to multiple devices without having to plug headphones in and out
+ - I aim to fulfill my audio needs (music, calls, etc.) without interruption","- By following the instructions with the headphones, I should be able to connect them to each of my devices
+ - By using each device, I should be able to connect or disconnect the headphones as I need
+ - While using the headphones, I should be able to select an audio-related action such as choosing a song or starting a call and be able to hear the response clearly and without interruption
+ - While using the headphones, I should be able to understand the audio
+ - I should be able to press the volume controls on my device or on the headphones to increase and decrease the volume of the audio I am hearing
+ - I should be able to place the headphones in my ear/over my head easily and also remove them easily
+ - By pressing the power switch, I should be able to turn them on and off
+ - By plugging them into a charger, I should be able to restore their battery so I can use them again
+ - By speaking, my voice should be transmitted to the device via the headphones","- I aspire to be stimulated by music or by other audiovisual entertainment
+ - I aspire to be exposed to high quality sound that satisfies my desires for entertainment
+ - I aspire to be connected to others and to my devices
+ - I aspire to be seen as someone who enjoys music and sound
+ - I aspire to be able to do all of the above conveniently without having to think too much
+ - I aspire to have peace and not be disrupted by ambient noise while I listen to music or engage in a call",4,2,4,1,1,1,1,1,3,2,3,4,5
+13,22,I aim to keep my dorm room clean. I aim to minimize clutter in my small space.,"By pressing the right buttons, I should be able to operate the vacuum and clean the floor of my dorm room.",I aspire to keep my living space clean. I aspire to live in a space that is orderly and hygienic.,4,5,5,1,3,5,1,1,1,1,1,1,1
+14,2,"Connect your american devices to european plugs. Carry item in travel case (luggage, backpack, etc)","Make sure to bring the adapter. Plug into european wall plug, plug american electronic device into adapter.","Make sure items you use back home still work when traveling. Hence aspire for comfort, connectivity, etc.",5,1,5,1,1,1,1,1,1,1,1,5,1
+15,15,"I want to use the earbuds seamlessly with my phone. 
+ I want to be able to use it for a long time before I have to charge it. 
+ I want to have earbuds that fit my small ears.","I open the app on my phone. I turn on the earbuds, I connect them. I put them on my ears. i test them","I want other people to see that I'm using wireless earbuds. 
+ I want to able to listen to things on my phone without interrupting my daily routine so I can stay connected and informed with what's happening on my phone (or social network). 
+ I want to be informed, so I can stay ahead of some other people, progress on my life.",4,5,5,5,4,3,2,1,5,5,2,2,1
+16,6,"I aim to wash dishes
+ I aim to save money
+ I aim to only use on thing to wash the dishes with","By wetting the sponge and adding soap, I should be able to use the sponge to clean dishes
+ By using the rough side of the sponge, I should be able to scrub off any built up gunk
+ By rinsing out the sponge, it should be able to be clean without much maintanence","I aspire to maintain a clean home
+ I aspire to reduce the amount of items that I use in my cleaning process
+ I aspire to be as functional as possible in all things including sponge selection",3,1,5,1,1,1,1,1,3,1,1,1,3
+17,20,I aim to play video games with my PlayStation 5. I also aim to have it look and feel nice.,"By pressing the right buttons, I should be able to load up and play a video game. By using it in the right way, I should be able to not cause too much noise and also have it look nice in the living room.",I aspire to enjoy the time I spend at home. I also aspire to have a sense of beauty when looking at it.,1,5,5,2,3,1,1,1,1,1,2,1,3
+18,14,I aim to be able to clean things; I want to be efficient with the cleaning..,"By using a single piece of wipe, I should be able to pick up the maximum amount of dirt;",I aspire for efficiency; I want a clean and pristine environment;,3,2,4,1,5,2,4,1,4,1,1,4,5
+19,22,"- I aim to clean the dust/dirt in my room 
+ - I aim to fit my belongings efficiently into my small living space","- By turning on my mini vacuum and moving it over dirt/dust in my room, the dirt/dust should be sucked into the vacuum leaving the surface clean in only a few swipes. 
+ - By opening my closet and putting the mini vacuum inside, it should be able to fit into the small space easily, allowing me to go about my day without it getting in the way.","- I aspire to live in a clean space
+ - I aspire to live without clutter
+ - I aspire to be able to control my own space",5,4,5,1,4,5,1,1,1,1,1,5,1
+0,8,I aim to efficiently and effectively play computer games; I aim to custom configure my computer set-up to my liking; I aim to enjoy my experience using a computer mouse,"Plug in the mouse, download software, program the mouse, use the mouse, repeat for each device to be used with the mouse",I aspire to have aesthetically interesting surroundings; I aspire to feel competent and efficient; I aspire to feel comfortable without compromising; I aspire to have control over my surroundings,4,5,4,2,5,1,2,1,1,1,1,1,5
+1,23,"I aim to access photos and documents in my phone.
+ I aim to spend less money on my phone
+ I aim to have a phone that doesnt crack easily.","By taking pictures and downloading documents, i should be able to access photos and documents on my phone.
+ By finding more budget options, I should be able to spend less on my phone.
+ By finding more durable options, I should be able to have a phone that doesnt crack easily.","I aspire to have a convenient environment.
+ I aspire to have unity and order in my life.",1,5,5,1,1,1,1,1,1,1,1,5,1
+2,21,I aim to travel with this suitcase. I aim to travel on planes with this suitcase as a carry-on. I aim to walk long distances with this suitcase. I aim to walk on unpaved paths (i.e. not sidewalks) with this suitcase). I aim to fit everything I need in this suitcase. I aim to expand the suitcase to fit everything I need (when necessary). I aim to lock this suitcase. I aim to lock this suitcase in a way approved by TSA. I aim to travel with this suitcase as a carry-on in any country and on any airline. I aim to use this suitcase for a long time and for multiple trips.,"By expanding the suitcase, I aim to fit everything I need in it. By locking the suitcase, I aim to travel with my items securely. When locking the suitcase, I aim to not need to unlock it or discard of the lock to due to TSA guidelines. By using this suitcase, I aim to store it as carry-on. By rolling this suitcase on any surface, I aim to not break or wear-down the wheels. By lifting up this suitcase, I aim to easily store it in carry-on compartments. By using the multiple compartments of the suitcase, I aim to organize my items.","I aspire to travel easily. I aspire to travel securely. I aspire to have durable items. I aspire to have items that can change to fit my needs. I aspire to travel in diverse modes (plane, on foot).",5,4,5,1,5,3,1,1,2,1,1,5,1
+3,1,"I aim to hold a lot of stuff.
+ I aim to pull and also carry the luggage.","By avoiding the obstable and controlling the wheel well, I should be able to pull the laugage.
+ By opening and closing the zipper, I should be able to hold stuff.","I aspire to feel secure.
+ I aspire to have a nice trip.",1,1,5,1,1,1,1,1,1,1,1,4,1
+4,21,"I aim to store my belongings when traveling
+ I aim to let no one else access my things","By carefully packing my things in different compartments, I will stay organized
+ By placing a lock on my suitcase, I will prevent others from accessing my things","I aspire to feel safe and secure when traveling
+ I aspire to keep my belongings in prime condition 
+ I aspire to keep my belongings well-organized
+ I aspire to follow the rules",2,4,4,2,2,1,1,1,1,2,1,4,1
+5,23,I aim to use my phone as much as I want. I aim to not waste money. I aim to live an active lifestyle.,I want to use my phone for lots of things. I want to not worry about the phone breaking. I want to save money when possible.,I want to have a useful phone. I want to be smart about how I spend money.,5,3,5,3,4,1,1,1,2,1,3,5,5
+6,19,"I aim to listen to music on my public transit commute. I aim to enjoy the nuances of the sound without being hindered by the quality of the speakers it plays from. I aim to listen to music from multiple sources, be it my music library, online videos, or live TV.","By putting on the headphones, turning them on, and executing a simple sequence on my device of interest, I should be able to hear my device's output from the headphones rather than its default playback method.",I aspire to be productive and have a fruitful life. I aspire to live harmoniously with others and not stand out for doing the wrong thing.,4,1,4,1,2,1,1,1,2,1,2,2,3
+7,21,I aim to use my suitcase for multiple vacations. I aim to use a functional and durable suitcase on my trips abroad. I aim to pack a lot on my trips.,"By opening the expandable zipper, I can pack more into my suitcase. By using a padlock, I can increase the safety of my suitcase from being breached.",I aspire to feel secure. I aspire to feel empowered.,4,2,5,1,4,3,4,1,3,2,1,5,2
+8,20,I aim to have an all-in-one device. I aim to play on my PS5 without causing disruption to those around me. I aim to be have a good time when using my PS5.,"By using the PS5, I should be able to complete many different tasks. By using headphones and having a good appearance, I shouldn't cause disruption to those around me.",I aspire to have an ordered space. I aspire to care about others and have them think highly of me. I aspire to have convenience.,1,5,5,3,1,1,1,1,1,2,4,5,5
+9,13,I need a device that clean the dirt form all surfaces.,"By using the vacuum, it can lift the dirt from both hardwood and rugs.","I aspire to live in a comfortable environment, having a high quality life.",4,3,5,1,1,1,1,1,1,1,1,1,1
+10,19,"I aim to have the headphone connect to my device easily, i aim to enjoy my music with a more pleasant experience.","By putting the headphone on, I should be able to connect my music/input source with a click of a button; I should able to hear the music at higher volume, and hear the ambient sounds without background noise.",I aspire to enjoy my music world in a more quality experience; i aspire to be efficient.,4,1,5,1,1,1,1,1,5,1,2,1,5
+11,22,I will use the vacuum to clean all the dust and hair on the floor and sofa.,"I will attach it to the electric source. I will make sure it picks up all the dirt, will try till it succeeds, and clean it (remove the collected dust).","Cleanliness, I aspire that when people come to my place they feel comfortable and lean. I aspire when I am at home, I enjoy the luxury of cleaner environment.",1,1,5,5,2,3,2,2,4,1,1,3,1
+12,21,"- I aim to store my belongings for travel purposes
+ - I aim to protect my belongings from risks that can occur during travel, such as damage or theft
+ - I aim to carry it around comfortably without interruptions to my plans, e.g., because it does not fit in an overhead compartment on an airplane
+ - I aim to keep my belongings highly organized
+ - I aim to use my suitcase frequently without damaging it or experiencing a reduction in quality","- By unzipping the suitcase, I can open it
+ - By unzipping different compartments, I can open them
+ - By placing my belongings inside the suitcase, I can store them
+ - By placing my belongings inside different compartments, I can keep my things highly organized
+ - By closing the suitcase and zipping it up, I can keep my belongings contained
+ - If the suitcase is too full, by unzipping the expandable zipper, I can make the suitcase larger
+ - By using the wheels and/or expanding the handles, I can roll the suitcase around without having to carry the heavy weight of my stuff
+ - By locking the suitcase with an external padlock, I can satisfy TSA requirements when traveling
+ - By lifting the suitcase above my head and inserting it into the overhead compartment, I can store it safely on the airplane","- I aspire to be close to others by traveling
+ - I aspire to see the world and be independent
+ - I aspire to keep my belongings secure and safe while I travel
+ - I aspire to be comfortable while I travel by having my stuff on me
+ - I aspire to be able to discover myself and other things while traveling without having it be interrupted by challenges with my luggage
+ - I aspire to be able to travel for long periods of time and be free
+ - I aspire to be organized and not have to worry about whether I have something or not being able to satisfy my needs
+ - I aspire to be able to pack my suitcase with even more stuff acquired from my travels and have those keepsakes be safe",5,3,5,4,2,3,2,1,5,1,5,5,1
+13,24,I aim to track the quality of my sleep. I aim to look stylish while being comfortable.,"By wearing the smart watch while I sleep, I should be able to track my sleep and adjust my sleep schedule accordingly.",I aspire to get enough rest. I aspire to keep track of and take charge of my health. I aspire to feel comfortable and stylish at the same time.,3,5,5,1,3,5,1,1,1,1,1,3,1
+14,5,"Aims to use laptop (use-case unspecified, but can be for work and leisure). Aims to carry around laptop.","Charge laptop, use laptop, download and use apps.","Stay connected, get work done, enjoy online entertainment",5,2,4,3,4,1,2,1,3,1,1,4,4
+15,5,"I want to use the laptop for a long time (long battery life) 
+ I want to use the laptop for tasks that required large amount of RAM.","I have to use my laptop on my daily task without plugging it in and see how long can it goes without charging. 
+ I have to run a benchmark on the laptop to see if it's powerful enough for my intended tasks.","I want to have power/control on my tasks. 
+ I want to progress on the work I'm doing.",5,1,5,1,5,2,5,1,5,3,4,5,4
+16,22,"I aim to vacuum a college dorm
+ I aim to use the vacuum to vacuum a large area without having to do extra work
+ I aim to only use the vacuum to complete my cleaning tasks","By plugging in the vacuum, I should be able to do one pass and it is cleaned
+ By plugging in the vacuum, I should be able to reach the whole room and not have to unplug and move for more reach","I aspire to maintain a clean space
+ I aspire to be as fast and effective as possible with the time that I have",4,1,4,1,2,1,1,1,3,1,1,1,3
+17,13,I aim to clean dirty surfaces. I also aim to have it work on all surfaces.,"By operating it in the correct way, I should be able to lift dirt from dirty surfaces. By simply using it, I should also be able to operate it effectively on all surfaces.",I aspire to have a clean environment. I also aspire to have efficiency and convenience by buying one product to clean all surfaces.,2,5,5,1,1,1,1,1,1,1,1,1,2
+18,10,I aim to use a travel adapter when I'm on the road; I want to be able to connect apple and non-apple devices to the adapter.,"By using different wires, I should be able to connect different devices to my travel adapter.",I aspire for efficiency; I want a sense of security before making decisions;,4,1,4,1,4,1,3,1,5,1,1,5,1
+19,20,"- I aspire to play video games 
+ - I aspire to engage with entertainment without disrupting the lives of those around me
+ - I aspire to keep my significant other happy","- By placing the PlayStation 5 in the living room, connecting it to the TV, and turning it on, I should be able to play games and watch TV without disrupting others 
+ - By plugging my headphones into the controller, I should be able to conveniently listen to the game audio without it changing the playing experience","- I aspire to be entertained and stimulated
+ - I aspire to have a positive impact on others",4,5,5,5,2,1,2,1,1,2,5,3,5
